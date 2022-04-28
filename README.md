@@ -13,7 +13,7 @@
 </div>
 
 ### :woman_technologist: About Me : 
-I love studying different ways of communication as a tool of transformation and growth. I'm convinced that technology is far more than just an instrument for productivity, and can be used in all kind of creative ways that set in motion new conversations and social change.
+I love studying different ways of communication as a tool of transformation and growth. I'm convinced that technology is far more than just an instrument for productivity, and can be used in all kinds of creative ways that set in motion new conversations and social change.
 
 
 - :computer: Front End Developer.
